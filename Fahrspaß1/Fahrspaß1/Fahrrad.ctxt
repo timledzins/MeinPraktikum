@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Fahrrad
+comment0.text=\r\n\ Klasse\ Fahrrad\ <br>\r\n\ \r\n\ Kap.\ 7.3\ Arbeitsauftrag\ 3,\ Aufgabe\ 1\r\n
+comment1.params=
+comment1.target=Fahrrad()
+comment2.params=
+comment2.target=void\ fahre()
+comment2.text=\r\n\ Das\ Fahrrad\ bewegt\ sich,\ jedoch\ l\u00E4sst\ der\ Reifendruck\ (unverh\u00E4ltnism\u00E4\u00DFig\ stark)\ nach.\r\n\ Ist\ der\ Reifendruck\ auf\ 1.5\ gesunken,\ bewegt\ es\ sich\ nicht\ mehr.\r\n
+comment3.params=
+comment3.target=void\ pumpeAuf()
+comment3.text=\r\n\ Vor\ Beginn\ der\ Fahrt\ kann\ der\ Reifendruck\ erh\u00F6ht\ werden.\r\n\ Damit\ ist\ eine\ l\u00E4ngere\ Fahrt\ m\u00F6glich.\r\n
+comment4.params=
+comment4.target=void\ gibLaut()
+comment4.text=\r\n\ Vor\ Beginn\ der\ Fahrt\ kann\ die\ Klingel\ bet\u00E4tigt\ werden.\r\n
+numComments=5

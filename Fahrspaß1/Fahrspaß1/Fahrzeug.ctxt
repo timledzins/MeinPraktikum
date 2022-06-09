@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Fahrzeug
+comment0.text=\r\n\ Klasse\ Fahrzeug\ <br>\r\n\ \r\n\ Kap.\ 7.3\ Arbeitsauftrag\ 3,\ Aufgabe\ 1\r\n
+comment1.params=
+comment1.target=Fahrzeug()
+comment2.params=
+comment2.target=void\ gibLaut()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ fahre()
+numComments=5

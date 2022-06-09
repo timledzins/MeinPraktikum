@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=PKW
+comment0.text=\r\n\ Klasse\ Auto\ <br>\r\n\ \r\n\ Kap.\ 7.3\ Arbeitsauftrag\ 3,\ Aufgabe\ 1\r\n
+comment1.params=
+comment1.target=PKW()
+comment2.params=
+comment2.target=void\ fahre()
+comment2.text=\r\n\ Das\ Auto\ bewegt\ sich,\ solange\ noch\ Energie\ vorhanden\ ist.\r\n\ Ist\ der\ Ladestand\ unter\ 30%,\ f\u00E4hrt\ es\ langsamer,\ \r\n\ verbraucht\ aber\ auch\ weniger\ Energie.\r\n
+comment3.params=menge
+comment3.target=void\ lade(int)
+comment3.text=\r\n\ Vor\ Beginn\ der\ Fahrt\ kann\ die\ Batterie\ (bis\ maximmal\ 100)\ nochmals\ geladen\ werden.\r\n
+comment4.params=
+comment4.target=void\ gibLaut()
+comment4.text=\r\n\ Vor\ Beginn\ der\ Fahrt\ kann\ die\ Hupe\ bet\u00E4tigt\ werden.\r\n
+numComments=5
