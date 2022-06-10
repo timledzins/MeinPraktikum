@@ -12,7 +12,7 @@ public class PKW extends Fahrzeug
     
     PKW()
     {
-        hoechstgeschwindigkeit = 90;  // beliebige Einheit
+        hoechstgeschwindigkeit = 42;  // beliebige Einheit
         ladestand = 80;               // in Prozent der Gesamtladung
     }
     
